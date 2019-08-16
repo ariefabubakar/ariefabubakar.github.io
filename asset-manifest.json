@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ariefabubakar/vehicle-counter/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ariefabubakar/vehicle-counter/static/js/main.6595b315.chunk.js",
-    "main.js.map": "/ariefabubakar/vehicle-counter/static/js/main.6595b315.chunk.js.map",
-    "runtime~main.js": "/ariefabubakar/vehicle-counter/static/js/runtime~main.3ec1bc19.js",
-    "runtime~main.js.map": "/ariefabubakar/vehicle-counter/static/js/runtime~main.3ec1bc19.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/ariefabubakar/vehicle-counter/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.facc32f1.chunk.js": "/ariefabubakar/vehicle-counter/static/js/2.facc32f1.chunk.js",
-    "static/js/2.facc32f1.chunk.js.map": "/ariefabubakar/vehicle-counter/static/js/2.facc32f1.chunk.js.map",
-    "index.html": "/ariefabubakar/vehicle-counter/index.html",
-    "precache-manifest.2d306f1a752e1bd7a4d7adc316aaf16f.js": "/ariefabubakar/vehicle-counter/precache-manifest.2d306f1a752e1bd7a4d7adc316aaf16f.js",
-    "service-worker.js": "/ariefabubakar/vehicle-counter/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/ariefabubakar/vehicle-counter/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/ariefabubakar/vehicle-counter/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/ariefabubakar/vehicle-counter/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.2cce8147.chunk.css",
+    "main.js": "/static/js/main.713630c0.chunk.js",
+    "main.js.map": "/static/js/main.713630c0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c0400a62.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c0400a62.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.255838a3.chunk.js": "/static/js/2.255838a3.chunk.js",
+    "static/js/2.255838a3.chunk.js.map": "/static/js/2.255838a3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3b680a7ea705c68488ab462af3de80e.js": "/precache-manifest.d3b680a7ea705c68488ab462af3de80e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
